@@ -1,5 +1,5 @@
 // To Make Javascript Accept JSX (JavaScript HTML)
-import React from "react";
+import React from "https://raw.githubusercontent.com/EasiFyre/easifyre.github.io/main/Modules/react.js";
 
 // The Component
 const MainMoreButton = (props) => {
